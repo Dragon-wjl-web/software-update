@@ -1,10 +1,11 @@
 {
-  "latest_version": "v1.0.8",
-  "version_code": 108,
+  "latest_version": "v1.0.7",
+  "version_code": 107,
   "update_note": "1.软件启动时候优先更新\n2.提示了不能用校园网启动软件",
   "download_url": "",
   "show_custom_message": true,
   "custom_message": "软件暂时关闭，等待作者更新，作者QQ：3515632913",
   "release_time": "2026-1-2"
 }
+
 
