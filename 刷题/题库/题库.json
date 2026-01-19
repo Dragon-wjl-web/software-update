@@ -2,7 +2,7 @@
   "subjects": [
     {
       "id": 1,
-      "subject_name": "的",
+      "subject_name": "设备",
       "create_time": "2026-01-15 11:36:35"
     }
   ],
@@ -18,7 +18,7 @@
       "option_d": "1000kV",
       "option_e": "",
       "option_f": "",
-      "correct_answer": "B",
+      "correct_answer": "C",
       "image_path": null,
       "analysis": "",
       "is_multiple_choice": 0,
@@ -571,3 +571,4 @@
   ],
   "error_book": []
 }
+
